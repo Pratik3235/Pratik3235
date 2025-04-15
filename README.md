@@ -66,14 +66,3 @@ Full-stack web developer with expertise in MongoDB, Express.js, React.js, and No
 
 ---
 
-### 🔥 My Contribution Graph
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=pratik3235&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-### ⏳ GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratik3235&theme=react" alt="streak" />
-</p>
