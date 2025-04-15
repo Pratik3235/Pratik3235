@@ -15,7 +15,7 @@ Full-stack web developer with expertise in MongoDB, Express.js, React.js, and No
 
 ## 🧠 About Me
 
-- 🌱 I’m currently learning **MERN Stack Web Development @ Masai School**
+- 🌱 I’m currently learning **MERN Stack Web Development at Masai School**
 - 💬 Ask me about **React, HTML, CSS, JavaScript, Express.js, Node.js, MongoDB**
 - 📫 How to reach me: **pratikpatil57432@gmail.com**
 
